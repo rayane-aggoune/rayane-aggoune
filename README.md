@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayane-aggoune
 - 👀 I’m interested in AI & Data science 
 - 🌱 I’m currently learning Deep learning
-c- 📫 How to reach me
+- 📫 How to reach me
 fb: https://www.facebook.com/ra.yane.33449138/
 instagram: https://www.instagram.com/rayane_aggoune/
 Linkedin: https://www.linkedin.com/in/rayane-aggoune-0294361ab/
